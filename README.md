@@ -47,3 +47,30 @@ An end-to-end RAG application developed with the **Prediction Guard** corporate 
 - Added Firebase authentication and persistent multi-session chat history
 
 **Tech:** `React` `FastAPI` `Firebase` `Vector Search` `SSE`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`Python` `Java` `C/C++` `SQL`
+
+**AI / Agents**  
+`LLMs` `RAG` `Tool-Using Agents` `MCP` `Agent Evaluation` `Hybrid Retrieval`
+
+**Backend / Data**  
+`FastAPI` `PostgreSQL` `pgvector` `SQLAlchemy` `Pydantic` `Firestore`
+
+**Web / Cloud**  
+`React` `Firebase` `Google Cloud Platform` `Server-Sent Events`
+
+**Engineering**  
+`Git/GitHub` `Docker` `Linux/Unix`
+
+---
+
+## 📫 Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/yixin-hu-dev/)
+- 💻 [GitHub](https://github.com/yixinhu7)
+- ✉️ [yixin.hu.dev@gmail.com](mailto:yixin.hu.dev@gmail.com)
